@@ -59,7 +59,7 @@ A unified weekly dataset (2010–2024) was constructed to support exploratory an
 ### App Overview (About page)
 Below is the About page screenshot of the deployed dashboard:
 
-![Dashboard About Page](images/about.png)
+![Dashboard About Page](about.png)
 
 
 ### Tabs / Pages
