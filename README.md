@@ -5,6 +5,9 @@ Team members: Kojo S. Kusi, Paul W. Baka, Freda Agyei-Dwarko
 
 Our main data analytic product, a Shiny app, has also been deployed: **[https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fkkusi12.shinyapps.io%2FStatsProgramming%2F&data=05%7C02%7Cpbaka1%40jh.edu%7C5553dc423b2a41547b3108de37a5fafc%7C9fa4f438b1e6473b803f86f8aedf0dec%7C0%7C0%7C639009383175424916%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0Qm5ObB0YpFwtvt8QwdpmNRPdG%2BPdawxZwWkUqA5bfw%3D&reserved=0]**
 
+Link to the dashboard github repo : [
+](https://github.com/Kojo-Kusi/FluClimate-Shiny-Dashboard-Repo)
+
 A write-up of this final project is also included in this repo, with the file name: **[`Project-write-up.pdf`]**
 
 ---
